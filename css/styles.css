@@ -21,3 +21,8 @@ img {
   color: red;
   font-style: italic;
 }
+
+.best {
+  color: blueviolet;
+  font-size: larger;
+}
